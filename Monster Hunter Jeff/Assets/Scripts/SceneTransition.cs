@@ -8,6 +8,15 @@ public class SceneTransition : MonoBehaviour {
     public string sceneToLoad;
     public Vector2 playerPosition;
     public VectorValue playerStorage;
+    public GameObject fadeInPanel;
+
+    private void Awake()
+    {
+        if(fadeInPanel != null)
+        {
+
+        }
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
