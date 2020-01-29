@@ -7,7 +7,7 @@ public class ContextClue : MonoBehaviour
 
     public GameObject contextClue;
 
-    public void OnEnable()
+    public void Enable()
     {
         contextClue.SetActive(true);
     }
