@@ -17691,6 +17691,23 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 09e8b1e41b9b09f4a907f664b3d15937,
         type: 2}
+    - target: {fileID: 7571248972272046159, guid: 0c4c98bcef2afa548948cd401c4484a4,
+        type: 3}
+      propertyPath: fadeInPanel
+      value: 
+      objectReference: {fileID: 6428352650762263360, guid: 500511db63185384b8864bbd48124c26,
+        type: 3}
+    - target: {fileID: 7571248972272046159, guid: 0c4c98bcef2afa548948cd401c4484a4,
+        type: 3}
+      propertyPath: fadeOutPanel
+      value: 
+      objectReference: {fileID: 3770447136021239264, guid: 68c7512ab10f9324e89e59e5ccc7d1e2,
+        type: 3}
+    - target: {fileID: 7571248972272046159, guid: 0c4c98bcef2afa548948cd401c4484a4,
+        type: 3}
+      propertyPath: fadeWait
+      value: 0.33
+      objectReference: {fileID: 0}
     - target: {fileID: 7963147733449300181, guid: 0c4c98bcef2afa548948cd401c4484a4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19162,12 +19179,12 @@ PrefabInstance:
     - target: {fileID: 8039304428883765505, guid: fdc6119e5e923ba4fb07ea1a8acba7f3,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.14
+      value: 6.4
       objectReference: {fileID: 0}
     - target: {fileID: 8039304428883765505, guid: fdc6119e5e923ba4fb07ea1a8acba7f3,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.96
+      value: -8.39
       objectReference: {fileID: 0}
     - target: {fileID: 8039304428883765505, guid: fdc6119e5e923ba4fb07ea1a8acba7f3,
         type: 3}
