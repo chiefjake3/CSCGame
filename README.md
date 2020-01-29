@@ -1,5 +1,17 @@
 # CSCGame
-i got no friends
+# Computer Science Club
 
-
-I really don't have any Fucking friends.
+Property of the Computer Science Club
+Developers of the game:
+ - Jacob Miller
+ - Kai Doldan
+ - Issac
+ - Devin
+ - Trey
+ - Parker Neville
+ - Blake Miller
+ - Pedro
+ - Matthew Wiley
+ - Ronan Lopez
+ - Jackson
+ - 
